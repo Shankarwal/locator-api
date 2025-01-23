@@ -5,7 +5,7 @@ schemaVersion: 1.1
 endpoints:
   # +required Unique name for the endpoint.
   # This name will be used when generating the managed API
-  - name: get-lat-long
+  - name: /
     # +optional Display name for the endpoint.
     displayName: Get Lat Long
     # +required Service section has the user service endpoint details
